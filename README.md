@@ -179,13 +179,13 @@ And here is a chronological log of the highlights of my learning:
 
 I'm currently interested in/excited about:
 
-+ React
++ React Native
 + JavaScript best practice
-+ Object Oriented Programming
++ App Optimizations
 
 ----
 
-## Web Development Checklist
+## Mobile Development Checklist
 
 This is a list of basic objectives to meet on the road to mastering web development.
 
